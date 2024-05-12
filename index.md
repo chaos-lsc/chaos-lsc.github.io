@@ -5,10 +5,19 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+## About Me
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+Here is **ShiChao Liu (Chaos, 刘奭超)**.
+
+I am a undergraduate majoring in **Computer Science** at Jianghan University. Recently, I am about to start my graduate career.
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - liushichao@stu.jhun.edu.cn
+
+## Research Interests
+
+- Internet of Everything
+- Operating System
+
+
+# Research
+
+## Projects
